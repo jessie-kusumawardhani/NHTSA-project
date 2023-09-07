@@ -4,7 +4,7 @@
 
   National Highway Traffic Safety Administration (NHTSA) merupakan sebuah lembaga pemerintah Amerika Serikat yang memiliki misi yang sangat penting, yaitu melindungi masyarakat dengan menyelamatkan nyawa, mencegah cedera, dan mengurangi dampak ekonomi yang dihasilkan oleh kecelakaan lalu lintas. Untuk mencapai tujuan ini, NHTSA menggabungkan berbagai pendekatan yang komprehensif.
 
-  Salah satu peran utama NHTSA adalah mengumpulkan, menganalisis, dan mempublikasikan data tentang kecelakaan lalu lintas yang terjadi dalam satu tahun tertentu. Data ini mencakup berbagai informasi penting seperti jenis kecelakaan, lokasi, faktor penyebab, dan dampaknya terhadap korban. Melalui analisis data yang mendalam ini, NHTSA dapat mengidentifikasi tren dan pola kecelakaan yang ada, memahami penyebabnya, dan merumuskan solusi yang lebih baik untuk mencegah kecelakaan di masa mendatang.
+  Salah satu peran utama NHTSA adalah mengumpulkan, menganalisis, dan mempublikasikan data tentang kecelakaan lalu lintas yang terjadi dalam satu tahun tertentu. Data ini mencakup berbagai informasi penting seperti jenis kecelakaan, lokasi, faktor penyebab, dan dampaknya terhadap korban. Melalui analisis data yang mendalam ini, NHTSA dapat mengidentifikasi tren dan pola kecelakaan yang ada, memahami penyebabnya, dan merumuskan solusi yang lebih baik untuk mengurangi angka kecelakaan di masa mendatang.
 
 ## Tujuan
 
@@ -18,7 +18,7 @@
 
 4. Berdasarkan kondisi pengemudi ketika kecelakaan terjadi (dalam keadaan mabuk atau tidak beserta waktu insiden)
 
-  Namun, analisis ini tidak hanya terbatas pada data internal. Untuk memastikan bahwa rekomendasi peraturan yang dihasilkan memiliki dasar yang kuat, informasi eksternal yang relevan juga dipertimbangkan. Ini termasuk riset ilmiah terkini tentang keselamatan lalu lintas, praktik terbaik yang telah terbukti efektif di negara-negara lain, dan perkembangan teknologi terbaru yang dapat digunakan untuk meningkatkan keselamatan di jalan raya.
+  Analisis ini tidak hanya terbatas pada data internal. Untuk memastikan bahwa rekomendasi peraturan yang dihasilkan memiliki dasar yang kuat, informasi eksternal yang relevan juga dipertimbangkan.
 
 ## Temuan
 
@@ -46,7 +46,7 @@
 
    ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/light%20condition-not%20collision%20with%20motor%20vehicle.jpg?raw=true)
 
-  Dalam analisis data ini, ditemukan bahwa kondisi penerangan yang memiliki jumlah kecelakaan tertinggi adalah kategori *daylight*, dengan total insiden mencapai 8.208 pada jenis kecelakaan tunggal. Temuan ini menunjukkan bahwa kecelakaan tunggal terjadi ketika kondisi penerangan cukup baik, yaitu saat siang hari. Namun, kategori ini juga menduduki peringkat teratas untuk jenis kecelakaan lainnya.
+  Kondisi penerangan yang memiliki jumlah kecelakaan tertinggi adalah kategori *daylight*, dengan total insiden mencapai 8.208 pada jenis kecelakaan tunggal. Temuan ini menunjukkan bahwa kecelakaan tunggal terjadi ketika kondisi penerangan cukup baik, yaitu saat siang hari. Namun, kategori ini juga menduduki peringkat teratas untuk jenis kecelakaan lainnya.
 
   ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/atmosphere%20condition-not%20collision%20with%20motor%20vehicle.jpg?raw=true)
 
@@ -56,7 +56,7 @@
 
 ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/states-all.jpg?raw=true)
 
-  Analisis lanjutan dilakukan dengan mengamati di negara apa saja kecelakaan ini terjadi secara keseluruhan. Dari hasil tersebut, diambil sepuluh negara dengan angka kecelakaan paling tinggi. Kecelakaan paling banyak terjadi di Texas (3.513), California (3.484), dan Florida (3.091). Faktor-faktor demografis seperti populasi juga dipertimbangkan. California memiliki [populasi](https://datacommons.org/ranking/Count_Person/State/country/USA?h=geoId%2F48) tertinggi (sekitar 39 juta), diikuti oleh Texas (sekitar 29 juta), tetapi Texas memiliki angka kecelakaan lebih tinggi meskipun perbedaan populasi tidak terlalu besar. Analisis lebih mendalam kota-kota di setiap negara bisa memberikan wawasan lebih rinci tentang pola kecelakaan, meskipun ada beberapa anomali yang menarik.
+  Analisis lanjutan dilakukan dengan mengamati di negara apa saja kecelakaan ini terjadi secara keseluruhan. Dari hasil tersebut, diambil sepuluh negara dengan angka kecelakaan paling tinggi. Kecelakaan paling banyak terjadi di Texas (3.513), California (3.484), dan Florida (3.091). Faktor-faktor [demografis](https://datacommons.org/ranking/Count_Person/State/country/USA?h=geoId%2F48) seperti populasi juga dipertimbangkan. California memiliki populasi tertinggi (sekitar 39 juta), diikuti oleh Texas (sekitar 29 juta), tetapi Texas memiliki angka kecelakaan lebih tinggi meskipun perbedaan populasi tidak terlalu besar. Analisis lebih mendalam kota-kota di setiap negara bisa memberikan wawasan lebih rinci tentang pola kecelakaan, meskipun ada beberapa anomali yang menarik.
 
 ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/texas.jpg?raw=true)
 
@@ -68,13 +68,13 @@
 
 ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/urban%20vs%20rural-all.jpg?raw=true)
 
-  Selanjutnya, analisis dilakukan terhadap data yang berkaitan dengan jumlah kecelakaan yang terjadi di daerah pedesaan dan perkotaan. Hasil analisis ini memberikan gambaran tentang pola kecelakaan di berbagai tipe lingkungan. Ditemukan bahwa lebih dari setengah dari jumlah total kecelakaan untuk semua jenis kecelakaan tercatat di daerah perkotaan, yakni sekitar 57,5% dari total insiden (20.101). Sementara itu, jumlah kecelakaan di daerah pedesaan mencapai sekitar 42,5% (14.829).
+  Analisis juga dilakukan terhadap data yang berkaitan dengan jumlah kecelakaan yang terjadi di daerah pedesaan dan perkotaan. Hasil analisis ini memberikan gambaran tentang pola kecelakaan di berbagai tipe lingkungan. Ditemukan bahwa lebih dari setengah dari jumlah total kecelakaan untuk semua jenis kecelakaan tercatat di daerah perkotaan, yakni sekitar 57,5% dari total insiden (20.101). Sementara itu, jumlah kecelakaan di daerah pedesaan mencapai sekitar 42,5% (14.829).
 
 ### 3. Berdasarkan waktu terjadinya kecelakaan
 
 ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/month-all.jpg?raw=true)
 
-  Data yang berkaitan dengan jumlah kecelakaan yang terjadi pada setiap bulan kemudian diteliti. Analisis ini bertujuan untuk memahami pola kecelakaan selama berbagai musim di tahun 2021. Angka kecelakaan tertinggi terjadi pada bulan Oktober, dengan jumlah mencapai 3.517 insiden. Hal yang menarik adalah bahwa angka kecelakaan relatif stabil dari bulan Juni hingga Oktober. Di sisi lain, angka kecelakaan terendah tercatat pada bulan April, dengan jumlah kecelakaan mencapai 2.103 insiden.
+  Data yang berkaitan dengan jumlah kecelakaan yang terjadi pada setiap bulan kemudian diteliti. Analisis ini bertujuan untuk memahami pola kecelakaan selama berbagai musim di tahun 2021. Angka kecelakaan tertinggi terjadi pada bulan Oktober, dengan jumlah mencapai 3.517 insiden. Hal yang menarik adalah bahwa angka kecelakaan relatif tinggi dan stabil dari bulan Juni hingga Oktober. Di sisi lain, angka kecelakaan terendah tercatat pada bulan April, dengan jumlah kecelakaan mencapai 2.103 insiden.
 
 ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/day-all.jpg?raw=true)
 
@@ -96,8 +96,10 @@
 
 ## Kesimpulan
 
-  Jenis kecelakaan umumnya tidak melibatkan kendaraan bermotor (21.768). Analisis masih tahap awal, mencari korelasi dengan jenis dan kondisi seperti jenis jalan, persimpangan, penerangan, dan cuaca. Kecelakaan paling banyak terjadi di jalan bervolume besar seperti Principal Arterial - Other, yang notabene dikategorikan sebagai jalan tanpa persimpangan. Insiden juga sebagian besar terjadi pada siang hari dan dalam keadaan cerah. Texas, California, dan Florida memiliki tingkat kecelakaan tertinggi. Sementara jumlah penduduk ketiga negara bagian juga tertinggi, terdapat anomali seperti banyak kota terjadinya kecelakaan tidak teridentifikasi. Lebih dari setengah kecelakaan terjadi di daerah perkotaan (57,5%). Kecelakaan mencapai puncaknya dari Juni hingga Oktober dan pada hari Minggu, terutama antara pukul 12.00 - 15.00, dengan sekitar enam kecelakaan pada pukul 12.00 siang oleh pengemudi yang tidak mabuk (74,2%).
+  Jenis kecelakaan umumnya tidak melibatkan kendaraan bermotor (21.768). Analisis masih tahap awal, mencari korelasi dengan jenis dan kondisi seperti jenis jalan, persimpangan, penerangan, dan cuaca. Kecelakaan paling banyak terjadi di jalan bervolume besar seperti Principal Arterial - Other, yang notabene dikategorikan sebagai jalan tanpa persimpangan. Insiden juga sebagian besar terjadi pada siang hari dan dalam keadaan cerah. Texas, California, dan Florida memiliki tingkat kecelakaan tertinggi. Sementara jumlah penduduk ketiga negara bagian juga tertinggi, terdapat anomali seperti banyak kota terjadinya kecelakaan tidak teridentifikasi. Selain itu, lebih dari setengah kecelakaan terjadi di daerah perkotaan (57,5%). Kecelakaan mencapai puncaknya dari Juni hingga Oktober dan pada hari Minggu, terutama antara pukul 12.00 - 15.00, dengan sekitar enam kecelakaan pada pukul 12.00 siang oleh pengemudi yang tidak mabuk (74,2%).
 
 ## Rekomendasi
 
-Di Amerika Serikat, siswa sekolah dapat [memperoleh](https://www.policygenius.com/auto-insurance/driving-age-by-state/#:~:text=In%20the%20U.S.%2C%20you%20can%20typically%20apply%20for%20your%20full%20driver%E2%80%99s%20license%20between%20the%20ages%20of%2016%20and%2018.) SIM pada usia 16-18 tahun, dengan beberapa negara bagian memberikan izin pada [usia](https://www.rhinocarhire.com/Drive-Smart-Blog/Minimum-Driving-Age-Country/Minimum-Driving-Age-State.aspx) 17 atau 18. Libur musim panas [berlangsung](https://moonpreneur.com/blog/usa-school-holiday-calendar/#:~:text=among%20all%20individuals.-,Summer%20Break%C2%A0,length%2C%20with%20some%20districts%20offering%20as%20many%20as%20three%20months%20off.,-Labor%20Day) dari Mei/Juni hingga Agustus/September. Ini mungkin menunjukkan kemungkinan pengendara muda yang melakukan perjalanan jauh selama liburan musim panas. Namun, diperlukan analisis lebih mendalam mengenai usia pengendara yang terlibat dalam kecelakaan untuk rekomendasi yang lebih tepat, seperti pelatihan atau izin khusus untuk pengendara muda yang melakukan perjalanan jauh. Selain itu, pembatasan volume pengendara pada siang hari juga dapat diterapkan, terutama pada hari Minggu antara 12.00-15.00, dan dara mengenai jenis kendaraan yang terlibat dalam kecelakaan (motor, mobil, bus, truk) perlu dipertimbangkan untuk meningkatkan keselamatan jalan raya dan mengurangi kecelakaan ke depannya.
+- Di Amerika Serikat, siswa sekolah dapat [memperoleh](https://www.policygenius.com/auto-insurance/driving-age-by-state/#:~:text=In%20the%20U.S.%2C%20you%20can%20typically%20apply%20for%20your%20full%20driver%E2%80%99s%20license%20between%20the%20ages%20of%2016%20and%2018.) SIM pada usia 16-18 tahun, dengan beberapa negara bagian memberikan izin pada [usia](https://www.rhinocarhire.com/Drive-Smart-Blog/Minimum-Driving-Age-Country/Minimum-Driving-Age-State.aspx) 17 atau 18. Libur musim panas [berlangsung](https://moonpreneur.com/blog/usa-school-holiday-calendar/#:~:text=among%20all%20individuals.-,Summer%20Break%C2%A0,length%2C%20with%20some%20districts%20offering%20as%20many%20as%20three%20months%20off.,-Labor%20Day) dari Mei/Juni hingga Agustus/September. Ini mungkin menunjukkan kemungkinan pengendara muda yang melakukan perjalanan jauh selama liburan musim panas. Namun, diperlukan penggalian data lebih mendalam mengenai usia pengendara yang terlibat dalam kecelakaan untuk rekomendasi yang lebih tepat, seperti pelatihan atau izin khusus untuk pengendara muda yang melakukan perjalanan jauh.
+- Pada [musim panas](https://www.ncei.noaa.gov/access/monitoring/monthly-report/national/202108#season-temp:~:text=During%20meteorological%20summer,for%20the%20season.) tahun 2021, sebagian besar negara bagian utama di Amerika Serikat mengalami suhu di atas rata-rata, mencapai 74°F atau 23°C. Ini bahkan melebihi panas ekstrem pada tahun 1936 saat terjadi [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl). Tahun itu juga, California menghadapi kebakaran hutan yang sebagian besar [disebabkan](https://ww2.arb.ca.gov/wildfires-climate-change) oleh cuaca ekstrem dan perubahan iklim. Ada kemungkinan pengemudi mengalami kecelakaan tunggal akibat panas ekstrem, terutama di musim panas. Oleh karena itu, disarankan untuk mempertimbangkan aturan larangan berkendara atau pembatasan volume kendaraan pada siang hari, khususnya pada hari Minggu antara pukul 12.00-15.00.
+- Penggalian data jenis kendaraan yang terlibat dalam kecelakaan (motor, mobil, bus, truk) dapat dipertimbangkan untuk analisis yang lebih mendalam guna meningkatkan keselamatan jalan raya dan mengurangi kecelakaan di masa depan.
