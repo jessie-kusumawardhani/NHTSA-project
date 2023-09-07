@@ -26,7 +26,7 @@
 
 ### 1. Berdasarkan kategori kecelakaan
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/crash%20type-all.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/crash%20type-all.jpg)
 
   Jenis kecelakaan paling umum adalah bukan tabrakan dengan kendaraan bermotor, sebanyak 21.768 kejadian. Selain itu, berbagai bentuk kecelakaan lainnya terjadi seperti angle (6.416), front-to-front (3.618), dan front-to-rear (2.424). Data ini mencerminkan keragaman situasi penyebab kecelakaan di jalan.
   Selanjutnya, analisis akan memeriksa beberapa faktor, yaitu jenis jalan, jenis persimpangan, kondisi penerangan, dan cuaca yang dapat memengaruhi kecelakaan. Korelasi antara jenis kecelakaan dengan faktor-faktor ini akan diidentifikasi. Selain itu, hasil temuan akan dipertimbangkan berdasarkan kondisi saat kecelakaan terjadi.
@@ -34,63 +34,63 @@
 
   - Jenis jalan dan jenis persimpangan
 
-  ![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/not%20collision%20with%20motor%20vehicle/road%20type-not%20collision%20with%20motor%20vehicle.jpg)
+  ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/road%20type-not%20collision%20with%20motor%20vehicle.jpg)
 
   Kecelakaan tertinggi terjadi di jenis jalan *Principal Arterial - Other* (5.315 insiden) dalam kecelakaan tunggal. Ini juga berlaku untuk jenis kecelakaan *angle* (2.691), *front to front* (1.184), dan beberapa jenis lainnya. *Interstate* tertinggi pada jenis kecelakaan *front to rear* (853) dan *sideswipe: same direction* (208), sementara *Minor Arterial* tertinggi pada jenis *sideswipe: opposite direction* (131). Kecelakaan *rear to rear* yang lebih jarang terjadi (2 insiden) terdistribusi pada jenis jalan *Principal Arterial - Other* dan *Major Collector*. Ini menunjukkan bahwa kecelakaan sering terjadi di jalan panjang, dengan volume tinggi, dan kendaraan bermotor berkecepatan tinggi.
 
-   ![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/not%20collision%20with%20motor%20vehicle/intersection%20type-not%20collision%20with%20motor%20vehicle.jpg)
+   ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/intersection%20type-not%20collision%20with%20motor%20vehicle.jpg)
 
   Kecelakaan tertinggi juga terjadi di jalan lurus (18.692 insiden) dalam kecelakaan tunggal. Ini adalah temuan penting dan jenis persimpangan ini juga sering menjadi lokasi insiden untuk jenis kecelakaan lain, kecuali angle (3.108) yang lebih sering terjadi di perempatan.
   
   - Kondisi penerangan dan cuaca
 
-   ![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/not%20collision%20with%20motor%20vehicle/light%20condition-not%20collision%20with%20motor%20vehicle.jpg)
+   ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/light%20condition-not%20collision%20with%20motor%20vehicle.jpg)
 
   Dalam analisis data ini, ditemukan bahwa kondisi penerangan yang memiliki jumlah kecelakaan tertinggi adalah kategori *daylight*, dengan total insiden mencapai 8.208 pada jenis kecelakaan tunggal. Temuan ini menunjukkan bahwa kecelakaan tunggal terjadi ketika kondisi penerangan cukup baik, yaitu saat siang hari. Namun, kategori ini juga menduduki peringkat teratas untuk jenis kecelakaan lainnya.
 
-  ![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/not%20collision%20with%20motor%20vehicle/atmosphere%20condition-not%20collision%20with%20motor%20vehicle.jpg)
+  ![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/atmosphere%20condition-not%20collision%20with%20motor%20vehicle.jpg)
 
   Berkorelasi dengan hasil kondisi penerangan, cuaca yang paling banyak menyebabkan kecelakaan adalah yang disebut *clear*, dengan total insiden yang sangat tinggi, yaitu mencapai 15.203 pada jenis kecelakaan tunggal. Ini menunjukkan bahwa sebagian besar insiden tidak terjadi akibat perubahan cuaca seperti hujan, salju, kabut, atau sejenisnya. Temuan ini juga berlaku untuk jenis kecelakaan lainnya.
 
 ### 2. Berdasarkan wilayah tempat terjadinya kecelakaan
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/states-all.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/states-all.jpg)
 
   Analisis lanjutan dilakukan dengan mengamati di negara apa saja kecelakaan ini terjadi secara keseluruhan. Dari hasil tersebut, diambil sepuluh negara dengan angka kecelakaan paling tinggi. Kecelakaan paling banyak terjadi di Texas (3.513), California (3.484), dan Florida (3.091). Faktor-faktor demografis seperti populasi juga dipertimbangkan. California memiliki [populasi](https://datacommons.org/ranking/Count_Person/State/country/USA?h=geoId%2F48) tertinggi (sekitar 39 juta), diikuti oleh Texas (sekitar 29 juta), tetapi Texas memiliki angka kecelakaan lebih tinggi meskipun perbedaan populasi tidak terlalu besar. Analisis lebih mendalam kota-kota di setiap negara bisa memberikan wawasan lebih rinci tentang pola kecelakaan, meskipun ada beberapa anomali yang menarik.
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/cities/texas.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/texas.jpg)
 
   Saat kita melihat data kecelakaan di berbagai kota di masing-masing sepuluh negara, ditemukan bahwa ada kota-kota dengan jumlah kecelakaan yang tinggi, tetapi informasi khusus tentang lokasi kecelakaan ini tidak tersedia dalam data. Sebagai contoh, di negara bagian Texas, jumlah kecelakaan tertinggi tidak memiliki keterangan yang menyebutkan di kota mana kecelakaan tersebut terjadi. Selain itu, jumlah kecelakaan ini cukup besar jika dibandingkan dengan kecelakaan yang memiliki informasi lokasi kota yang jelas.
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/cities/new%20york.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/new%20york.jpg)
 
   Kita dapat melihat bahwa satu-satunya pengecualian adalah negara bagian New York. Ini menunjukkan bahwa dalam data kecelakaan di Texas, angka kecelakaan tertinggi tidak terkait dengan kota tertentu, sementara di New York, kota New York memiliki total 117 kecelakaan.
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/urban%20vs%20rural-all.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/urban%20vs%20rural-all.jpg)
 
   Selanjutnya, analisis dilakukan terhadap data yang berkaitan dengan jumlah kecelakaan yang terjadi di daerah pedesaan dan perkotaan. Hasil analisis ini memberikan gambaran tentang pola kecelakaan di berbagai tipe lingkungan. Ditemukan bahwa lebih dari setengah dari jumlah total kecelakaan untuk semua jenis kecelakaan tercatat di daerah perkotaan, yakni sekitar 57,5% dari total insiden (20.101). Sementara itu, jumlah kecelakaan di daerah pedesaan mencapai sekitar 42,5% (14.829).
 
 ### 3. Berdasarkan waktu terjadinya kecelakaan
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/month-all.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/month-all.jpg)
 
   Data yang berkaitan dengan jumlah kecelakaan yang terjadi pada setiap bulan kemudian diteliti. Analisis ini bertujuan untuk memahami pola kecelakaan selama berbagai musim di tahun 2021. Angka kecelakaan tertinggi terjadi pada bulan Oktober, dengan jumlah mencapai 3.517 insiden. Hal yang menarik adalah bahwa angka kecelakaan relatif stabil dari bulan Juni hingga Oktober. Di sisi lain, angka kecelakaan terendah tercatat pada bulan April, dengan jumlah kecelakaan mencapai 2.103 insiden.
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/day-all.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/day-all.jpg)
 
   Hari dengan angka kecelakaan tertinggi adalah Minggu, dengan total 6.342 insiden. Ini merupakan temuan yang menarik karena Minggu sering kali dianggap sebagai hari libur dan mungkin ada faktor-faktor tertentu yang memengaruhi tingkat kecelakaan pada hari ini.
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/all%20accident-avg%20per%20hour.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/all%20accident-avg%20per%20hour.jpg)
 
   Rata-rata jumlah kecelakaan tertinggi dalam satu hari tercatat pada pukul 12.00 siang, dengan rata-rata mencapai 5,9 insiden atau, jika dibulatkan, sekitar enam insiden. Temuan ini menunjukkan bahwa jam tengah hari adalah waktu di mana risiko kecelakaan rata-rata paling tinggi dalam satu hari. Tren ini kemudian tampak stabil hingga pukul 15.00 sore, artinya selama periode ini, angka kecelakaan cenderung tinggi dan konsisten.
 
 ### 4. Berdasarkan kondisi pengemudi ketika kecelakaan terjadi
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/drunk%20vs%20sober-all.jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/drunk%20vs%20sober-all.jpg)
 
   Jumlah pengemudi yang tidak dalam keadaan mabuk lebih mendominasi, yaitu sekitar 74,2% dari total insiden kecelakaan (sebanyak 26.292 insiden). Sementara itu, pengemudi yang berada dalam keadaan mabuk saat mengalami kecelakaan hanya mencapai sekitar 25,8% (sebanyak 9.120 insiden). Temuan ini merupakan hal yang menarik karena mengindikasikan bahwa pengemudi yang tidak dalam keadaan mabuk mendominasi hampir tiga perempat dari keseluruhan jumlah kecelakaan yang tercatat.
 
-![](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/CHART%20screenshots/Total%20Crash%20by%20Hour%20(Sober%20vs.%20Drunk%20Driver).jpg)
+![](https://github.com/jessie-kusumawardhani/NHTSA-project/blob/main/drunk%20vs%20sober-all.jpg)
 
   Jumlah kecelakaan tertinggi dalam satu hari terjadi pada pukul 12.00 siang untuk pengemudi yang tidak dalam keadaan mabuk dengan total 1.627 insiden. Di sisi lain, pengemudi yang berada dalam keadaan mabuk memiliki angka kecelakaan tertinggi pada pukul 17.00 sore dengan total 708 insiden.
 
